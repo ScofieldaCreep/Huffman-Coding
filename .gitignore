@@ -1,0 +1,11 @@
+a.out
+deneme*
+*input*
+*output*
+old-versions
+archive
+extract
+*.dat
+*.compressed
+build/
+data/
